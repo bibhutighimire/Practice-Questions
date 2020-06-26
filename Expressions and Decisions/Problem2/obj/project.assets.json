@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\18705\\Projects\\Expressions and Decisions\\problem1\\problem1.csproj",
+      "projectUniqueName": "C:\\Users\\18705\\Projects\\Expressions and Decisions\\Problem2\\problem1.csproj",
       "projectName": "problem1",
-      "projectPath": "C:\\Users\\18705\\Projects\\Expressions and Decisions\\problem1\\problem1.csproj",
+      "projectPath": "C:\\Users\\18705\\Projects\\Expressions and Decisions\\Problem2\\problem1.csproj",
       "packagesPath": "C:\\Users\\18705\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\18705\\Projects\\Expressions and Decisions\\problem1\\obj\\",
+      "outputPath": "C:\\Users\\18705\\Projects\\Expressions and Decisions\\Problem2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
