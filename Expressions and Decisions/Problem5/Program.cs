@@ -16,6 +16,7 @@ namespace problem1
             string userMonthToLowerCase = userMonth.ToLower();
 
             //using switch case as asked by question
+            //@Link https://www.mathsisfun.com/measure/months.html
 
             switch(userMonthToLowerCase)
             {
