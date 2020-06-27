@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem1\\Problem1.csproj": {}
+    "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem2\\Problem1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem1\\Problem1.csproj": {
+    "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem2\\Problem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem1\\Problem1.csproj",
+        "projectUniqueName": "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem2\\Problem1.csproj",
         "projectName": "Problem1",
-        "projectPath": "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem1\\Problem1.csproj",
+        "projectPath": "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem2\\Problem1.csproj",
         "packagesPath": "C:\\Users\\18705\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem1\\obj\\",
+        "outputPath": "C:\\Users\\18705\\Projects\\Iteration and Basic Validation\\Problem2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
